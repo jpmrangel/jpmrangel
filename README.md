@@ -1,8 +1,10 @@
-## よ。JP。
-
-- 👀 I’m interested in software developent, back end is what I like the most;
-- 🌱 I’m currently learning Javascript and Python;
+## よ。JP
+{
+- 👀 I’m interested in software development;
+- 🌱 I’m currently learning Javascript;
 - 💞️ I’m looking to earn experience now;
+
+}
 
 <div align="center">
   <a href="https://github.com/jpmrangel">
@@ -16,11 +18,15 @@
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e476u536pv3arnm6sk1tlo6ugd0yx98b9jrz7tui4qu&rid=giphy.gif&ct=g">
+  <img align="right" alt="gif" height="150" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e476u536pv3arnm6sk1tlo6ugd0yx98b9jrz7tui4qu&rid=giphy.gif&ct=g">
 </div>
   
   ##
 
 <div>
+  <h3></h3>
+  <div align="center">
+    
   ![Snake animation](https://github.com/jpmrangel/jpmrangel/blob/output/github-contribution-grid-snake.svg)  
+    
 </div>
