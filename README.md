@@ -26,6 +26,6 @@
   <h3></h3>
   <div align="center">
     
-  ![Snake animation](https://github.com/jpmrangel/jpmrangel/blob/output/github-contribution-grid-snake.svg)  
+  <!--![Snake animation](https://github.com/jpmrangel/jpmrangel/blob/output/github-contribution-grid-snake.svg)-->  
     
 </div>
