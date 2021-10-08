@@ -1,8 +1,8 @@
 ## よ。JP
 {
-- 👀 I’m interested in software development;
-- 🌱 I’m currently learning Javascript;
-- 💞️ I’m looking to earn experience now;
+- 👀 Estou interessado em desenvolvimento de software
+- 🌱 Aprendendo Javascript
+- 💞️ Ganhando experiência
 
 }
 
