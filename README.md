@@ -1,6 +1,6 @@
 ## よ。JP
 {
-- 👀 Estou interessado em desenvolvimento de software
+- 👀 Desenvolvimento de software
 - 🌱 Aprendendo Javascript
 - 💞️ Ganhando experiência
 
