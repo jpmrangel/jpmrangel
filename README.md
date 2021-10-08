@@ -1,8 +1,8 @@
 ## よ。JP
 
-🎯 Desenvolvimento de Software
-📚 Aprendendo Javascript
-🌱 Ganhando experiência
+- 🎯 Desenvolvimento de Software
+- 📚 Aprendendo Javascript
+- 🌱 Ganhando experiência
 
 
 <div align="center">
