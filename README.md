@@ -1,10 +1,4 @@
 ## よ。JP
-{
-- 👀 Desenvolvimento de software
-- 🌱 Aprendendo Javascript
-- 💞️ Ganhando experiência
-
-}
 
 <div align="center">
   <a href="https://github.com/jpmrangel">
