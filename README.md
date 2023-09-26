@@ -1,7 +1,6 @@
-## よ。JP
+## JP
 
 - 🎯 Desenvolvimento de Software
-- 📚 Aprendendo Javascript
 - 🌱 Ganhando experiência
 
 
